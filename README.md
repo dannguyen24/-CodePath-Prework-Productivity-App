@@ -2,7 +2,7 @@
 
 Submitted by: **Dannielle Nguyen**
 
-**Dannielle Nguyen** is an app that helps people keep track of their habit and todo list.
+**Productivity App** is an app that helps people keep track of their habit and todo list.
 
 Time spent: **3** hours spent in total
 
@@ -15,14 +15,14 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
 <div>
     <a href="https://www.loom.com/share/52290e02903a40f2b75539680905846c">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/52290e02903a40f2b75539680905846c-d0c6ffa0f2de5c6a-full-play.gif">
     </a>
-  </div>
+</div>
+  
 ## App Brainstorming (Step 4)
+
 - Notion:
     + Intuitive, user-friendly and simple UIUX.
     + Flexibility for customization.
@@ -36,19 +36,31 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
     + Easy to customize the time and color.
    
 ###My App will have following features:###
+
 **Note-taking (Notion-like feature):**
+
 - Allow users to take notes in a rich-text format, similar to Notion. You could have the ability to organize notes into different categories (e.g., projects, personal, work) and allow users to format them with headers, bullet points, and other text styling features.
+
 **To-Do List (with Pomodoro timer integration):**
+
 - Allow users to create tasks, which can be simple text items or more detailed descriptions. These tasks can then be associated with Pomodoro timers.
+
 - *Pomodoro Timer Integration:* Each task in the to-do list will have the option to start a Pomodoro timer. Once the Pomodoro timer is completed, the task will be marked as "done." 
 
 **Google Calendar Integration:**
+
 - Integrate with Google Calendar to import events and tasks. This way, users can view their upcoming calendar events directly in the app.
+
 - Two-Way Sync: The app will also allow users to add tasks to their to-do list, and these tasks can be reflected in Google Calendar as scheduled events. For example, if a user sets a Pomodoro session for a task, they could add it as an event in Google Calendar to remind them when to start.
+
 **Streamlined Task Process:**
+
 - Task Completion Sync: Once a user marks a task as "done" either in the to-do list or after completing a Pomodoro session, the task will be completed on both pages, providing a seamless workflow. This sync can also reflect in Google Calendar if a task was scheduled.
+
 - Real-time Updates: As users finish tasks, the app should update in real-time across all views (e.g., to-do list, Pomodoro timer, notes). This ensures users always have the most up-to-date view of their tasks and progress.
-Additional Features to Consider:
+
+*Additional Features to Consider:*
+
 - Task priority
 - Task reminders
 - Analytics: Track Pomodoro sessions and task completion over time, giving users insights into their productivity patterns.
